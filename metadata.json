@@ -1,0 +1,6 @@
+{
+  "name": "FF India Pro",
+  "description": "FF India Pro Gaming Assistant Panel featuring sensitivity manager, headshot tracker, aim trainer, HUD planner, DPI guide, weapon stats, crosshair preview, drag practice guide, and pro presets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
